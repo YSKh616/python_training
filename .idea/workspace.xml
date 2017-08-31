@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="685ca79e-8d7b-4bda-853c-df82a67fbdf3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logic_operations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/branch.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -94,11 +94,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="logic_operations.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="logic_operations.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/logic_operations.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
               <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="branch.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/branch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -121,6 +131,7 @@
         <option value="$PROJECT_DIR$/string_advanced.py" />
         <option value="$PROJECT_DIR$/comparison.py" />
         <option value="$PROJECT_DIR$/logic_operations.py" />
+        <option value="$PROJECT_DIR$/branch.py" />
       </list>
     </option>
   </component>
@@ -192,7 +203,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.logic_operations">
+  <component name="RunManager" selected="Python.branch">
+    <configuration name="branch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_training" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/branch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="comparison" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -223,23 +251,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_training" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logic_operations.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="pt_random" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_training" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pt_random.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -279,19 +290,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.pt_random" />
-      <item index="1" class="java.lang.String" itemvalue="Python.string" />
-      <item index="2" class="java.lang.String" itemvalue="Python.string_advanced" />
-      <item index="3" class="java.lang.String" itemvalue="Python.comparison" />
-      <item index="4" class="java.lang.String" itemvalue="Python.logic_operations" />
+      <item index="0" class="java.lang.String" itemvalue="Python.string" />
+      <item index="1" class="java.lang.String" itemvalue="Python.string_advanced" />
+      <item index="2" class="java.lang.String" itemvalue="Python.comparison" />
+      <item index="3" class="java.lang.String" itemvalue="Python.logic_operations" />
+      <item index="4" class="java.lang.String" itemvalue="Python.branch" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.logic_operations" />
-        <item index="1" class="java.lang.String" itemvalue="Python.comparison" />
-        <item index="2" class="java.lang.String" itemvalue="Python.string_advanced" />
-        <item index="3" class="java.lang.String" itemvalue="Python.string" />
-        <item index="4" class="java.lang.String" itemvalue="Python.pt_random" />
+        <item index="0" class="java.lang.String" itemvalue="Python.branch" />
+        <item index="1" class="java.lang.String" itemvalue="Python.logic_operations" />
+        <item index="2" class="java.lang.String" itemvalue="Python.comparison" />
+        <item index="3" class="java.lang.String" itemvalue="Python.string_advanced" />
+        <item index="4" class="java.lang.String" itemvalue="Python.string" />
       </list>
     </recent_temporary>
   </component>
@@ -408,6 +419,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/branch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
           <folding />
         </state>
       </provider>
