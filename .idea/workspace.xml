@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="685ca79e-8d7b-4bda-853c-df82a67fbdf3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tuple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dictionary.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="variables" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/variables">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="operations.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/operations.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,11 +94,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tuple.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tuple.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tuple.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="206">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dictionary.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dictionary.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -133,6 +134,7 @@
         <option value="$PROJECT_DIR$/branch.py" />
         <option value="$PROJECT_DIR$/list.py" />
         <option value="$PROJECT_DIR$/tuple.py" />
+        <option value="$PROJECT_DIR$/dictionary.py" />
       </list>
     </option>
   </component>
@@ -204,7 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tuple">
+  <component name="RunManager" selected="Python.dictionary">
     <configuration name="branch" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -222,7 +224,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="comparison" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -234,7 +236,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_training" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comparison.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -291,19 +293,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.comparison" />
-      <item index="1" class="java.lang.String" itemvalue="Python.logic_operations" />
-      <item index="2" class="java.lang.String" itemvalue="Python.branch" />
-      <item index="3" class="java.lang.String" itemvalue="Python.list" />
-      <item index="4" class="java.lang.String" itemvalue="Python.tuple" />
+      <item index="0" class="java.lang.String" itemvalue="Python.logic_operations" />
+      <item index="1" class="java.lang.String" itemvalue="Python.branch" />
+      <item index="2" class="java.lang.String" itemvalue="Python.list" />
+      <item index="3" class="java.lang.String" itemvalue="Python.tuple" />
+      <item index="4" class="java.lang.String" itemvalue="Python.dictionary" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.tuple" />
-        <item index="1" class="java.lang.String" itemvalue="Python.list" />
-        <item index="2" class="java.lang.String" itemvalue="Python.branch" />
-        <item index="3" class="java.lang.String" itemvalue="Python.logic_operations" />
-        <item index="4" class="java.lang.String" itemvalue="Python.comparison" />
+        <item index="0" class="java.lang.String" itemvalue="Python.dictionary" />
+        <item index="1" class="java.lang.String" itemvalue="Python.tuple" />
+        <item index="2" class="java.lang.String" itemvalue="Python.list" />
+        <item index="3" class="java.lang.String" itemvalue="Python.branch" />
+        <item index="4" class="java.lang.String" itemvalue="Python.logic_operations" />
       </list>
     </recent_temporary>
   </component>
@@ -442,8 +444,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tuple.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="206">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
           <folding />
         </state>
       </provider>
