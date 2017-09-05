@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="685ca79e-8d7b-4bda-853c-df82a67fbdf3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boring_python/2-1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boring_python/2-2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boring_python/2-3.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -125,11 +124,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2-2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2-2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/boring_python/2-2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
               <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2-3.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/boring_python/2-3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -181,6 +190,7 @@
         <option value="$PROJECT_DIR$/boring_python/1-1.py" />
         <option value="$PROJECT_DIR$/boring_python/2-1.py" />
         <option value="$PROJECT_DIR$/boring_python/2-2.py" />
+        <option value="$PROJECT_DIR$/boring_python/2-3.py" />
       </list>
     </option>
   </component>
@@ -259,7 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2-2">
+  <component name="RunManager" selected="Python.2-3">
     <configuration name="1-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -311,19 +321,19 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="class_application" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2-3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/boring_python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_training" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_application.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boring_python/2-3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -346,19 +356,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.class_application" />
-      <item index="1" class="java.lang.String" itemvalue="Python.open_file" />
-      <item index="2" class="java.lang.String" itemvalue="Python.1-1" />
-      <item index="3" class="java.lang.String" itemvalue="Python.2-1" />
-      <item index="4" class="java.lang.String" itemvalue="Python.2-2" />
+      <item index="0" class="java.lang.String" itemvalue="Python.open_file" />
+      <item index="1" class="java.lang.String" itemvalue="Python.1-1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.2-1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.2-2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.2-3" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.2-2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.2-1" />
-        <item index="2" class="java.lang.String" itemvalue="Python.1-1" />
-        <item index="3" class="java.lang.String" itemvalue="Python.open_file" />
-        <item index="4" class="java.lang.String" itemvalue="Python.class_application" />
+        <item index="0" class="java.lang.String" itemvalue="Python.2-3" />
+        <item index="1" class="java.lang.String" itemvalue="Python.2-2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.2-1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.1-1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.open_file" />
       </list>
     </recent_temporary>
   </component>
@@ -695,6 +705,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boring_python/2-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
