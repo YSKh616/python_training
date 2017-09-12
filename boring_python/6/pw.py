@@ -19,4 +19,3 @@ if account in PASSWORDS:
     print(account + 'のパスワードをクリップボードにコピーしました')
 else:
     print(account + 'というアカウントはありません')
-
